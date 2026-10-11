@@ -74,4 +74,5 @@ The Streamlit application allows users to select a store, choose forecast condit
 ## Author
 
 Afan Rajiwate
+
 Github-afanrajiwate
